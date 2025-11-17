@@ -3,12 +3,12 @@ _End-to-end data analytics project using Kaggle financial transaction dataset_
 
 ## 🚀 Project Overview
 
-##Data Source and Description:
+## Data Source and Description:
 The dataset used for this analysis is a synthetic but realistic financial transaction dataset obtained from Kaggle. It contains information about customer transactions, card details, user demographics, merchant categories, and fraud labels. The data is synthetic but created to look like real banking activity from the 2010s.
 
 Overall, the dataset provides a rich, multi-table structure that enables a wide range of analytical goals, including analysing spending trends, understanding customer characteristics, exploring card usage patterns, evaluating merchant categories, and identifying abnormal or high-risk transactions.
 
-##Overview of the data:
+## Overview of the data:
 This section provides a clear snapshot of the dataset, outlining the key tables it contains and the main attributes within each. This overview helps establish the structure of the data before moving into cleaning and analysis.
 
 Transaction data(transactions_data.csv): Detailed transaction records including amounts, timestamps, and merchant details.
