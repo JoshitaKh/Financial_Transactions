@@ -87,3 +87,43 @@ Financial_Transactions_Analysis/
 └── README.md # Project documentation
 
 
+---
+
+## 🛠️ Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
+
+---
+
+## 🔍 Key Highlights
+- Performed detailed exploratory data analysis (EDA)  
+- Conducted data cleaning and feature preparation  
+- Visualized transaction trends and anomalies  
+- Identified spending habits at customer/category/merchant levels  
+- Summarized findings with business-friendly insights  
+
+---
+
+## 📈 Key Insights (Examples)
+- Transaction volume patterns (daily/weekly/monthly)  
+- Distribution of high-value vs low-value transactions  
+- Merchant & category-level spending patterns  
+- Detection of outliers or unusual transaction behavior  
+- User segments based on spending  
+
+---
+
+## 📦 How to Run the Project
+
+### **1. Clone the repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/Financial_Transactions_Analysis.git
+cd Financial_Transactions_Analysis
+
+
+
